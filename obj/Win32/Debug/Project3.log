@@ -1,0 +1,22 @@
+﻿  Octree.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(136,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(174,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(185,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(208,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(226,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(270,20): warning C4018: '<': signed/unsigned mismatch
+  Project3.vcxproj -> C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\Project3_debug.exe
+  
+  	                   2	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp64.dll
+  	  *EXTRA File 		 6018560	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\FreeImage.dll
+  
+  	                   1	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp64.dll
+  	  *EXTRA File 		 1544704	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\fmodL.dll

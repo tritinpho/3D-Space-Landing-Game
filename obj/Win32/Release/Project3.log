@@ -1,0 +1,80 @@
+﻿  box.cc
+  main.cpp
+  Octree.cpp
+  ofApp.cpp
+  Particle.cpp
+  ParticleEmitter.cpp
+  ParticleSystem.cpp
+  TransformObject.cpp
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\vector3.h(20,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file src\box.cc)
+  Util.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(67,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(117,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(166,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(178,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(189,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(206,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\Octree.cpp(225,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(51,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(52,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(63,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ParticleSystem.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ofApp.cpp(22,8): warning C4996: 'ofSoundPlayer::loadSound': Use load
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\src\ofApp.cpp(32,7): warning C4996: 'ofNode::rotate': Use the Deg/Rad version.
+  ofxAssimpAnimation.cpp
+  ofxAssimpMeshHelper.cpp
+  ofxAssimpModelLoader.cpp
+  ofxAssimpTexture.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  ofxBaseGui.cpp
+  ofxButton.cpp
+  ofxColorPicker.cpp
+  ofxGuiGroup.cpp
+  ofxInputField.cpp
+  ofxLabel.cpp
+  ofxPanel.cpp
+  ofxSlider.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(276,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(265): message : while compiling class template member function 'void ofxInputField<float>::moveCursor(int)'
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(368): message : see reference to function template instantiation 'void ofxInputField<float>::moveCursor(int)' being compiled
+C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\addons\ofxGui\src\ofxInputField.cpp(805): message : see reference to class template instantiation 'ofxInputField<float>' being compiled
+  ofxSliderGroup.cpp
+  ofxToggle.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+     Creating library bin\Project3.lib and object bin\Project3.exp
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Project3.vcxproj -> C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\Project3.exe
+  
+  	                   2	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\libs\fmod\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp64.dll
+  	  *EXTRA File 		 6018560	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\FreeImage.dll
+  
+  	                   1	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\libs\FreeImage\lib\vs\Win32\
+  	  *EXTRA File 		 3385856	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp32.dll
+  	  *EXTRA File 		 4161536	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\assimp64.dll
+  	  *EXTRA File 		 1544704	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\fmod.dll
+  	  *EXTRA File 		 1733120	C:\Users\triti\OneDrive\Desktop\of_v0.11.2_vs2017_release\apps\myApps\Project3\bin\fmodL.dll
